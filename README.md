@@ -11,3 +11,7 @@ The OpenTF repo is now publicly available at https://github.com/opentffoundation
 ## Contact
 
 If you have questions or feedback to share, you can reach the team behind this manifesto by emailing us at [pledge@opentf.org](mailto:pledge@opentf.org).
+
+
+# Peer-reviewed by
+- Diogo Iwasaki
